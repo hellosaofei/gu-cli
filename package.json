@@ -1,0 +1,22 @@
+{
+  "name": "gu-cli",
+  "version": "1.0.0",
+  "description": "一个脚手架工具，提供快速生成代码的能力|",
+  "main": "index.js",
+  "bin": {
+    "gucli": "/bin/src/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "inquirer": "^9.3.2",
+    "loading-cli": "^1.1.2",
+    "typescript": "^5.5.2"
+  }
+}
