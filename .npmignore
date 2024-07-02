@@ -1,0 +1,8 @@
+# 源文件
+src/
+
+
+# 其他文件
+.npmrc
+push.sh
+tsconfig.json
